@@ -1,0 +1,44 @@
+
+p.header{
+    font-size: 150%;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+textarea{
+    margin-left: auto;
+    resize: none;
+    background-color: #eee;
+    font-size: 22px;
+    margin-top: -10px;
+    border: 1px solid #888;
+    width: 980px;
+    height: 200px;
+}
+
+span {
+    font-size: 22px;
+}
+
+input.text {
+    width: 600px;
+    
+}
+
+div#container {
+    margin-top: 20px;
+    align-self: center;
+}
+
+input.submit {
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 0px;
+}
+
+input.city {
+
+    font-size: 20px;
+    
+}
